@@ -5,11 +5,12 @@ app.use(express.json())
 
 app.use(cors())
 
-app.get('/JojoApi',(request, response) => {
-    response.json(standspart1)
+app.get('/',(request, response) => {
+    allStands() 
+    response.json(allS)
 })
 
-app.get('/JojoApi/part/:part',(request, response) => {
+app.get('/part/:part',(request, response) => {
     const id = Number(request.params.part)
     const stand = fetchStands(id)
     response.json(stand)
