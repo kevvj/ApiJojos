@@ -23,10 +23,7 @@ app.listen(PORT, () => {
 
 function fetchStands(part) {
     switch(part) {
-        case 1:return standspart1
 
-        case 2:return standspart2
-           
         case 3:return standspart3
             
         case 4:return standspart4
@@ -34,6 +31,10 @@ function fetchStands(part) {
         case 5:return standspart5
           
         case 6:return standspart6
+        
+        case 7:return standspart7
+
+        case 8:return standspart8
            
         default:allStands() 
         return allS
@@ -63,16 +64,16 @@ const fillout = (partJojo) => {
 
 
 function allStands() {
-    fillout(standspart1)
-    fillout(standspart2)
     fillout(standspart3)
     fillout(standspart4)
     fillout(standspart5)
     fillout(standspart6)
+    fillout(standspart7)
+    fillout(standspart8)
 }
 
 
-let standspart1 = [
+let standspart3 = [
     {name:'Star Platinum',user: 'Jotaro Kujo', part: 'Stardust Crusaders', address: './img/StarPlatinum.png', reference: ['La Estrella (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'The World',user: 'DIO', part: 'Stardust Crusaders', address: './img/TheWord.webp', reference: ['El Mundo (carta del tarot)', 'Holy Diver (canciones de DIO)'], link: ['https://en.wikipedia.org/wiki/El_Mundo_(Tarot)','https://open.spotify.com/intl-es/track/3MO8bZe6fOMsn78q83m8Rw?si=8528faa08f6c4e39']},
     {name:'Hermit Purple',user: 'Joseph Joestar', part: 'Stardust Crusaders', address: './img/HermitPurple.webp', reference: ['El Ermitaño (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
@@ -83,7 +84,7 @@ let standspart1 = [
     {name:'Anubis',user: 'Caravan Serai (usuario original)', part: 'Stardust Crusaders', address: './img/anubis.webp', reference: ['Anubis (deidad egipcia)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
 ];
 
-let standspart2 = [
+let standspart4 = [
     {name:'Killer Queen',user: 'Yoshikage Kira', part: 'Diamond Is Unbreakable', address: './img/KillerQueen.webp', reference: ['Killer Queen (canción de Queen)'], link: ['https://open.spotify.com/intl-es/track/300YN8ebGB90nDuzgz0f3O?si=e01eb3fcf5414348']},
     {name:'Star Platinum',user: 'Jotaro Kujo', part: 'Stardust Crusaders', address: './img/StarPlatinum.png', reference: ['La Estrella (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Crazy Diamond',user: 'Josuke Higashikata', part: 'Diamond Is Unbreakabl', address: './img/CrazyDiamond.png', reference: ['La Estrella (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
@@ -94,7 +95,7 @@ let standspart2 = [
     {name:"Cheap Trick",user: 'Masazo Kinoto', part: 'Diamond Is Unbreakabl', address: './img/CheapTrick.webp', reference: ['Cheap Trick (banda de rock estadounidense)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
 ];
 
-let standspart3 = [
+let standspart5 = [
     {name:'King Crimson',user: 'Diavolo/Doppio', part: 'Vento Aureo', address: './img/KingCrimson.png', reference: ['King Crimson','In the Court of the Crimson King','Epitaph'], link: ['https://open.spotify.com/intl-es/artist/7M1FPw29m5FbicYzS2xdpi?si=StWbi01nQA6yCKy7DWHzog','https://open.spotify.com/search/In%20the%20Court%20of%20the%20Crimson%20King','https://open.spotify.com/intl-es/track/5j4fSU12bw4G6JDVPU7JTB?si=006fbc740d1342b9']},
     {name:'Gold Experience',user: 'Giorno Giovanna', part: 'Vento Aureo', address: './img/GoldenExp.webp', reference: ['The Gold Experience (álbum de Prince)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Chariot Requiem',user: 'Jean Pierre Polnareff', part: 'Vento Aureo', address: './img/ChariotRequiem.png', reference: ['Silver Chariot (forma anterior)El Carro (carta del Tarot)Réquiem (composición de Mozart)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
@@ -105,7 +106,7 @@ let standspart3 = [
     {name:'Gold Experience Requiem',user: 'Giorno Giovanna', part: 'Vento Aureo', address: './img/GoldenExpRequiem.png', reference: ['Gold Experience (forma anterior)The Golden Experience (álbum de Prince)Requiem (composición de Mozart)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
 ];
 
-let standspart4 = [
+let standspart6 = [
     {name:'Star Platinum',user: 'Jotaro Kujo', part: 'Stardust Crusaders', address: './img/StarPlatinum.png', reference: ['La Estrella (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Made in Heaven',user: 'Enrico Pucci', part: 'Stone Ocean', address: './img/MadeInHeaven.png', reference: ['Made in Heaven (canción de Freddie Mercury y álbum de Queen)'], link: ['https://open.spotify.com/intl-es/track/4NTMIFWtDXnWN4hDSBlKOf?si=c8fcc8b8b38a41b4']},
     {name:'C-Moon',user: 'Enrico Pucci', part: 'Stone Ocean', address: './img/C-MOON.png', reference: ['Made in Heaven (canción de Freddie Mercury y álbum de Queen)'], link: ['https://open.spotify.com/intl-es/track/6r6qv2faxlb5TOfVp8p44x?si=28e5a388e9ed4de6']},
@@ -116,7 +117,7 @@ let standspart4 = [
     {name:'Bohemian Rhapsody',user: 'Ungalo', part: 'Stone Ocean', address: './img/cualquiera.webp', reference: ['Bohemian Rhapsody(Canción de Queen)'], link: ['https://open.spotify.com/intl-es/track/1BvDpRRJj7aYJfYUrxyH5N?si=7328bb348913485d']},
 ];
 
-let standspart5 = [
+let standspart7 = [
     {name:'Dirty Deeds Done Dirt Cheap',user: 'Funny Valentine', part: 'Steel Ball Run', address: './img/Dirty.webp', reference: ['Dirty Deeds Done Dirt Cheap(Cancion y album de AC/DC)', "Love Train(Canción de The O'Jays)"], link: ['https://open.spotify.com/intl-es/track/2d4e45fmUnguxh6yqC7gNT?si=02ca8cfe397c4a1b', 'https://open.spotify.com/intl-es/track/5QlxJMuPUxn2J2rcudSK9Z?si=59a4d85a975d4e3f']},
     {name:'Tusk',user: 'Johnny Joestar', part: 'Steel Ball Run', address: './img/Tusk.webp', reference: ['Tusk(Cancion y album)'], link: ['https://open.spotify.com/intl-es/track/0iINibMKtoS8duvexsqnm5?si=c9eefae474d0402f']},
     {name:'Scary Monsters',user: 'Diego Brando, Dr. Ferdinand', part: 'Steel Ball Run', address: './img/ScaryMonsters.webp', reference: ['Scary Monsters(Album)'], link: ['https://open.spotify.com/intl-es/album/5fxvWHvIDPIALfTfRiwyB0?si=skba-MvbTkqUBy0X_D1eMA']},
@@ -127,7 +128,7 @@ let standspart5 = [
     {name:'Hey Ya!',user: 'Pocoloco', part: 'Steel Ball Run', address: './img/HeyYoAv.webp', reference: ['Hey Ya!(Cancion de Outkast)'], link: ['https://open.spotify.com/intl-es/track/4lgacVkp03sUCDEItoksAS?si=c4a451a2ad9a41a3']},
 ];
 
-let standspart6 = [
+let standspart8 = [
     {name:'Wonder of U',user: 'Tooru', part: 'JoJolion ', address: './img/wonderofyou.png', reference: ['The Wonder of You(Cancion de Elvis Presley)'], link: ['https://open.spotify.com/intl-es/track/0LfJkvPNCNEMLpZJgDQiV1?si=9f3abffdc8474148']},
     {name:'Soft & Wet',user: 'Josefumi Kujo', part: 'JoJolion ', address: './img/Soft&Wet.png', reference: ['Soft and We'], link: ['https://open.spotify.com/intl-es/track/0GDM5mJEisxmmyYGuC6Cla?si=e35dde1ced2f4588']},
     {name:'Tusk',user: 'Johnny Joestar', part: 'Steel Ball Run', address: './img/Tusk.webp', reference: ['Tusk(Cancion y album)'], link: ['https://open.spotify.com/intl-es/track/0iINibMKtoS8duvexsqnm5?si=c9eefae474d0402f']},
