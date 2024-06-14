@@ -88,8 +88,6 @@ let standspart3 = [
     {name:"Dark Blue Moon",user: 'Capitán Tennille Impostor', part: 'Stardust Crusaders', address: "./img/Dark_Blue_Moon.webp", reference: ['La Luna (carta de tarot)','Blue Moon (canción de Rodgers y Hart)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
     {name:"Strength",user: 'Forever', part: 'Stardust Crusaders', address: "./img/Strength.jpg", reference: ['La Fuerza (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
     {name:"Ebony Devil",user: 'Devo', part: 'Stardust Crusaders', address: "./img/400px-Ebony_Devil_Infobox_Anime.png", reference: ['El Diablo (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
-
-
 ];
 
 let standspart4 = [
