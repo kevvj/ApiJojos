@@ -83,6 +83,13 @@ let standspart3 = [
     {name:'Cream',user: 'Vanilla Ice', part: 'Stardust Crusaders', address: './img/Cream.png', reference: ['Cream (banda británica)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Anubis',user: 'Caravan Serai (usuario original)', part: 'Stardust Crusaders', address: './img/anubis.webp', reference: ['Anubis (deidad egipcia)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:"Magician's Red",user: 'Muhammad Avdol', part: 'Stardust Crusaders', address: "./img/Magician's Red.png", reference: ['El Mago (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
+    {name:"The Fool",user: 'Iggy', part: 'Stardust Crusaders', address: "./img/The_Fool.webp", reference: ['El Loco (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
+    {name:"Tower of Gray",user: 'Gray Fly', part: 'Stardust Crusaders', address: "./img/Tower_of_Gray_Infobox_Manga.png", reference: ['La Torre (carta de tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
+    {name:"Dark Blue Moon",user: 'Capitán Tennille Impostor', part: 'Stardust Crusaders', address: "./img/Dark_Blue_Moon.webp", reference: ['La Luna (carta de tarot)','Blue Moon (canción de Rodgers y Hart)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
+    {name:"Strength",user: 'Forever', part: 'Stardust Crusaders', address: "./img/Strength.jpg", reference: ['La Fuerza (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
+    {name:"Ebony Devil",user: 'Devo', part: 'Stardust Crusaders', address: "./img/400px-Ebony_Devil_Infobox_Anime.png", reference: ['El Diablo (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/', 'https://open.spotify.com/intl-es/track/1sjlyw4Ql963gAiWsoDGOx']},
+
+
 ];
 
 let standspart4 = [
