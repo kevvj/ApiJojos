@@ -82,6 +82,7 @@ let standspart3 = [
     {name:'Silver Chariot',user: 'Jean Pierre Polnareff', part: 'Stardust Crusaders', address: './img/SilverChariot.png', reference: ['El Carro (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Cream',user: 'Vanilla Ice', part: 'Stardust Crusaders', address: './img/Cream.png', reference: ['Cream (banda británica)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:'Anubis',user: 'Caravan Serai (usuario original)', part: 'Stardust Crusaders', address: './img/anubis.webp', reference: ['Anubis (deidad egipcia)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
+    {name:"Magician's Red",user: 'Muhammad Avdol', part: 'Stardust Crusaders', address: "./img/Magician's Red.png", reference: ['El Mago (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
 ];
 
 let standspart4 = [
