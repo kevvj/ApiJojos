@@ -21,6 +21,7 @@ app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`)
 })
 
+
 function fetchStands(part) {
     switch(part) {
 
