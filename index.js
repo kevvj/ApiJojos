@@ -94,7 +94,7 @@ let standspart3 = [
     {name:"Emperor",user: 'Hol Horse', part: 'Stardust Crusaders', address: "./img/400px-Emperor_Infobox_Anime.png", reference: ['El Emperador (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:"Wheel of Fortune",user: 'Wheel of Fortune', part: 'Stardust Crusaders', address: "./img/Wheel_of_Fortune.webp", reference: ['La Rueda de la Fortuna (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:"Justice",user: 'Enya Geil', part: 'Stardust Crusaders', address: "./img/200px-Justice_Appearance.png", reference: ['La Justicia (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
-    {name:"Lovers",user: 'Steely Dan', part: 'Stardust Crusaders', address: "./img/200px-Justice_Appearance.png", reference: ['Los Amantes (carta del tarot)','Vigilante(álbum)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/','']},
+    {name:"Lovers",user: 'Steely Dan', part: 'Stardust Crusaders', address: "./img/Lovers.webp", reference: ['Los Amantes (carta del tarot)','Vigilante(álbum)'], link: ['https://www.lecturas.com/horoscopo/astrologia/enamorados-tarot-significado-numero-y-que-signo-representa_140305','https://open.spotify.com/intl-es/album/0gNCmEbPNV1OJ6JIcExTB7?si=JQ0sST6sS9ukdLF35ZugkQ']},
 
 ];
 
