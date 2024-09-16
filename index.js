@@ -95,7 +95,20 @@ let standspart3 = [
     {name:"Wheel of Fortune",user: 'Wheel of Fortune', part: 'Stardust Crusaders', address: "./img/Wheel_of_Fortune.webp", reference: ['La Rueda de la Fortuna (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:"Justice",user: 'Enya Geil', part: 'Stardust Crusaders', address: "./img/200px-Justice_Appearance.png", reference: ['La Justicia (carta del tarot)'], link: ['https://www.lanacion.com.ar/horoscopo/tarot-una-por-una-estas-son-las-78-cartas-nid14102022/']},
     {name:"Lovers",user: 'Steely Dan', part: 'Stardust Crusaders', address: "./img/Lovers.webp", reference: ['Los Amantes (carta del tarot)','Vigilante(álbum)'], link: ['https://www.lecturas.com/horoscopo/astrologia/enamorados-tarot-significado-numero-y-que-signo-representa_140305','https://open.spotify.com/intl-es/album/0gNCmEbPNV1OJ6JIcExTB7?si=JQ0sST6sS9ukdLF35ZugkQ']},
-
+    {name:"Sun",user: 'Arabia Fats', part: 'Stardust Crusaders', address: "./img/Sun.webp", reference: ['El Sol (carta del tarot)'], link: ['https://tarotdetiziana.com/el-sol-y-su-iluminado-mensaje-en-el-tarot/']},
+    {name:"Death Thirteen",user: 'Mannish Boy', part: 'Stardust Crusaders', address: "./img/Death Thirteen.jpeg", reference: ['La Muerte (carta del tarot)'], link: ['https://tarotdetiziana.com/la-muerte-y-su-fuerte-mensaje-en-el-tarot/']},
+    {name:"Judgement",user: 'Mannish Boy', part: 'Stardust Crusaders', address: "./img/Judgment_AnimeAV.webp", reference: ['El Juicio (carta del Tarot)'], link: ['https://tarotdetiziana.com/el-juicio-y-su-explicacion-en-el-tarot/']},
+    {name:"High Priestess",user: 'Midler', part: 'Stardust Crusaders', address: "./img/400px-High_Priestess_Infobox_Anime.png", reference: ['La Sacerdotisa (carta de tarot)'], link: ['https://tarotdetiziana.com/la-sacerdotisa-en-las-cartas-de-tarot/']},
+    {name:"Geb",user: "N'Doul", part: 'Stardust Crusaders', address: "./img/Geb_AnimeAV.webp", reference: ['Geb (deidad egipcia)'], link: ['https://mitologia.fandom.com/es/wiki/Geb#:~:text=Geb%20era%20el%20dios%20egipcio,%C3%A9l%20permit%C3%ADa%20crecer%20los%20cultivos.']},
+    {name:"Khnum",user: 'Oingo', part: 'Stardust Crusaders', address: "./img/400px-Khnum_Infobox_Anime.png", reference: ['Khnum (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Jnum']},
+    {name:"Tohth",user: 'Boingo', part: 'Stardust Crusaders', address: "./img/400px-Tohth_Infobox_Anime.png", reference: ['Tot (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Thot_(dios_egipcio)']},
+    {name:"Bastet",user: 'Mariah', part: 'Stardust Crusaders', address: "./img/Bastet.jpeg", reference: ['Bastet (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Bastet']},
+    {name:"Sethan",user: 'Alessi', part: 'Stardust Crusaders', address: "./img/Sethansummon.webp", reference: ['Seth (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Seth']},
+    {name:"Osiris",user: "Daniel J. D'Arby", part: 'Stardust Crusaders', address: "./img/Osiris_AnimeAV.webp", reference: ['Osiris (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Osiris']},
+    {name:"Sethan",user: 'Alessi', part: 'Stardust Crusaders', address: "./img/Sethansummon.webp", reference: ['Seth (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Seth']},
+    {name:"Horus",user: 'Pet Shop', part: 'Stardust Crusaders', address: "./img/Horus_AnimeAV.webp", reference: ['Horus (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Horus']},
+    {name:"Atum",user: "Telence T. D'Arby", part: 'Stardust Crusaders', address: "./img/Ttdarbystand.webp", reference: ['Atum (deidad egipcia)'], link: ['https://es.wikipedia.org/wiki/Atum']},
+    {name:"Tenore Sax",user: "Kenny G.", part: 'Stardust Crusaders', address: "./img/Tenore_Sax.webp", reference: ['Saxofón tenor(instrumento musical)'], link: ['https://es.wikipedia.org/wiki/Saxof%C3%B3n_tenor']},
 ];
 
 let standspart4 = [
